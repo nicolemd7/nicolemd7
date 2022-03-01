@@ -18,11 +18,13 @@
 
 -  Machine Learning
 
-#### Relevant Links
+#### Connect with me
 
-- [Medium] (https://medium.com/@nicolemichelledsouza)
+- [Medium](https://medium.com/@nicolemichelledsouza)
 
-- [Tableau]  (https://public.tableau.com/app/profile/nicole.dsouza)
+- [Tableau](https://public.tableau.com/app/profile/nicole.dsouza)
+
+- [LinkedIn](https://www.linkedin.com/in/nicole-d-souza2471/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nicolemd7&theme=vue&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemd7&hide=hack)
