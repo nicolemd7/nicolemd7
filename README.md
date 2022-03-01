@@ -26,3 +26,5 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nicolemd7&theme=vue&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemd7&hide=hack)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nicolemd7.nicolemd7)
