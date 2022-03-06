@@ -26,7 +26,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/nicole-d-souza2471/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=nicolemd7&theme=vue&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=nicolemd7&theme=vue&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemd7&hide=hack)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolemd7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nicolemd7.nicolemd7)
