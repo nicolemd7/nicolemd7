@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nicolemd7.nicolemd7) 
-![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.jessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Fnicolemd7%2Fman-hours-badge.git)
 
 👋🏽 My name is Nicole, I am 3rd year IT Engineering Student from NMIMS Mumbai. (July 2023). My avid interest in Computers lead to me wanting to pursue a career in the IT industry, over the years my interest towards this subject has only grown, especially in the field of Machine Learning, the idea that a spreadsheet of data can provide so many insights, with applications in every field from geospatial analytics to medical research, the endless possibilities fascinate me everyday, it is this wide array of solutions that ML provides is what draws me to it!
 
