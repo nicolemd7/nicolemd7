@@ -36,6 +36,6 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=nicolemd7&theme=vue&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolemd7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=nicolemd7&theme=vue&show_icons=true&count_private=True)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolemd7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
