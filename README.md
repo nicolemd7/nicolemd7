@@ -33,6 +33,10 @@
     </a>
 </p>
 
+### 📝 Research Papers & Posters
+- [Diabetes Detection Using Machine Learning Algorithms](https://doi.org/10.1109/IBSSC56953.2022.10037329.)
+- [Automatic Twitter Rumour Detection using Machine Learning](https://ieeexplore.ieee.org/document/10037317/)
+- [Understanding Adolescent Girls’ Perceptions Towards Menstruation: A Study from Mumbai’s Low-income Neighborhood](10.31219/osf.io/7942t)
 
 
 
